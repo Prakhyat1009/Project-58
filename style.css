@@ -45,7 +45,7 @@ h3 {
     margin: auto;
 }
 
-#hobby {
+.mycotents{
     display: table-cell;
     position: relative;
     text-align: center;
@@ -78,4 +78,7 @@ h3 {
 
 .links:hover {
     background-color: yellow;
+}
+#hobby{
+ background-color: aquamarine; 
 }
